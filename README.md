@@ -1,4 +1,4 @@
-# BarberLab 💈
+# Floripa_Barber 💈
 
 [![Status](https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20venda-brightgreen)](https://www.linkedin.com/in/isaque-santos-720b8b15a)
 
@@ -16,7 +16,7 @@ Uma landing page moderna e elegante para barbearias, desenvolvida como um projet
 
 ## 📄 Sobre o Projeto
 
-O **BarberLab** é uma solução completa de landing page para barbearias que buscam uma presença online profissional e atraente. O design é focado na experiência do usuário, com seções bem definidas para agendamento, serviços, produtos e contato.
+O **Floripa_Barber** é uma solução completa de landing page para barbearias que buscam uma presença online profissional e atraente. O design é focado na experiência do usuário, com seções bem definidas para agendamento, serviços, produtos e contato.
 
 Este projeto foi criado como uma peça de portfólio para exibir competências em desenvolvimento web moderno, mas foi construído com a flexibilidade de ser adaptado e vendido para qualquer negócio no ramo da barbearia.
 
@@ -54,7 +54,7 @@ Siga os passos abaixo para rodar o projeto em seu ambiente de desenvolvimento.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/IsaqueCodeX/barberlab.git
+    git clone https://github.com/IsaqueCodeX/Floripa_Barber.git
     cd barberlab
     ```
 
